@@ -32,7 +32,8 @@ Applying the trained model to predict potential churners in a new dataset.
 # Model Performance
 **Logistic Regression: Accuracy of 79%PCA Project**
 
-# presenatation [LINK is here](https://drive.google.com/file/d/1kaSvcUCI0lwjBUNkRfgnqD0sIioQyfPV/view?usp=sharing)
+# presenatation 
+[LINK is here](https://drive.google.com/file/d/1kaSvcUCI0lwjBUNkRfgnqD0sIioQyfPV/view?usp=sharing)
 
 
 
