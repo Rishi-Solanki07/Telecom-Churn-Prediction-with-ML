@@ -2,6 +2,8 @@
 
 **Our primary goal is to understand and predict customer churn in a telecom company using available data. Predicting churn allows the company to target customers with retention strategies, ultimately saving potential revenue.**
 
+**in this we have train_csv in which we are going to train our model with 80% data and test our model with 20%, after this we have list of active_customers which we are going to directly predict**
+
 # Key Steps in the Analysis
 **1. Data Inspection**
 Checking the quality and reliability of the data.
