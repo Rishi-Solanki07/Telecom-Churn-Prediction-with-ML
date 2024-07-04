@@ -31,8 +31,8 @@ Applying the trained model to predict potential churners in a new dataset.
 **Total Columns: 21
   Total Rows: 5282**
 
-# Model Performance
-**Logistic Regression: Accuracy of 79%PCA Project**
+# Model APPLY
+**Logistic Regression And Random-Forest**
 
 # presenatation 
 [LINK is here](https://drive.google.com/file/d/1kaSvcUCI0lwjBUNkRfgnqD0sIioQyfPV/view?usp=sharing)
